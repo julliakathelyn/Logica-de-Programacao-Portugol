@@ -28,7 +28,6 @@ Exercicio que uni os conteudos praticados + o uso de funções, um exercicio com
 
 https://github.com/julliakathelyn
 
-![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_Portugol.jpg/640px-Logo_Portugol.jpg)
 
 
 
