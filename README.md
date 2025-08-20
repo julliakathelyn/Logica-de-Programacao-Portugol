@@ -1,7 +1,7 @@
 
 # Logica de Programacao com Portugol
 
-![Logo](https://cdn.discordapp.com/attachments/896951718892437515/1354466746865684761/image.png?ex=67e564f5&is=67e41375&hm=0ef1d13a6f7ed7d0d9df27dbcd09ae177c536ea0fa515a81c207b561dd9ab4b6&)
+![Logo](img-portugol/image.png)
 
 Repositório para guardar as listas de exercicios de Logica de Programação com Portugol passada pelo Professor Gabriel Augusto Do Instituto Proa 
 
